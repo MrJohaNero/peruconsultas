@@ -8,7 +8,7 @@ npm install
 
 Por ahora se pueden realizar las siguientes consultas:
 * Consulta de Ruc en Sunat: 
-  * URL: http://localhost:8081/ruc/consulta/10706013437111
+  * URL: http://localhost:8081/ruc/consulta/20100070970
   * Response:
   ```json
   [
