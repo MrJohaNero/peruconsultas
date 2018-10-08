@@ -1,9 +1,10 @@
 # peruconsultas
 API Rest que permite realizar diversas consultas a entidades de Perú.
 
-Luego de descargar el proyecto debe instalar las dependencias.
+Luego de descargar el proyecto debe instalar las dependencias y ejecutar.
 ```javascript
 npm install
+node app
 ```
 
 Por ahora se pueden realizar las siguientes consultas:
